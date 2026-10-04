@@ -6,7 +6,7 @@ The application allows users to upload images, select different Computer Vision 
 
 🌐 **Live Demo:**  
 [Launch the Computer Vision Web App]
-computer-vision-interactive-lab ∙ main ∙ app.py
+(https://computer-vision-interactive-lab.streamlit.app/)
 
 
 
